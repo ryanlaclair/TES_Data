@@ -13,7 +13,3 @@ Thumbs.db
 
 # swp files
 *.swp
-
-# personal data files
-*.csv
-*.xlsx
